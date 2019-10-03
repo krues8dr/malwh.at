@@ -1,2 +1,1 @@
 # malwh.at
-malwh.at
